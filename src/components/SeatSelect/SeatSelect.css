@@ -1,0 +1,12 @@
+.seats {
+    animation: opacity_content 1s;
+}
+
+@keyframes opacity_content {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

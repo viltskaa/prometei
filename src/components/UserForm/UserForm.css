@@ -1,0 +1,4 @@
+.success {
+    outline: 1px #1668dc solid;
+    transition: all 0.5s;
+}
